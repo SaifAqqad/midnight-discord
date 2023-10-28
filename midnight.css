@@ -83,6 +83,9 @@
 .folderIconWrapper__72239 /* closed folder */ {
 	background: var(--bg-3) !important;
 }
+.folder__17546[aria-expanded="true"] .folderIconWrapper__72239 /* open folder */ {
+	background: var(--bg-4) !important;
+}
 #app-mount .searchAnswer_b452e7, /* search filter answer */
 #app-mount .searchFilter__118cb /* search filter */ {
 	background: var(--bg-1);
